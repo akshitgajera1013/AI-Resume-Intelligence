@@ -6,6 +6,9 @@
 [![Tavily](https://img.shields.io/badge/Search-Tavily_API-blueviolet.svg)](https://tavily.com/)
 [![Streamlit](https://img.shields.io/badge/UI-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 
+
+Deployment Link :- https://ai-resume-intelligence-59nscyi3wjhw2jopn3adyu.streamlit.app/
+
 An enterprise-grade, autonomous AI recruitment tool designed to critically evaluate candidate resumes against complex Job Descriptions (JDs). 
 
 Built using a modern **LangGraph ReAct (Reason + Act)** agent framework, this engine does not just analyze the provided text. It actively utilizes the **Tavily Search API** as an integrated tool to dynamically search the web, verifying the candidate's GitHub, LinkedIn, and public portfolio projects in real-time before synthesizing its final evaluation.
