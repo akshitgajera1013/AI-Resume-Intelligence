@@ -10,6 +10,17 @@ An enterprise-grade, autonomous AI recruitment tool designed to critically evalu
 
 Built using a modern **LangGraph ReAct (Reason + Act)** agent framework, this engine does not just analyze the provided text. It actively utilizes the **Tavily Search API** as an integrated tool to dynamically search the web, verifying the candidate's GitHub, LinkedIn, and public portfolio projects in real-time before synthesizing its final evaluation.
 
+
+#UI
+
+![Output](images/1.png)
+
+![Output](images/2.png)
+
+![Output](images/3.png)
+
+
+
 ## ✨ Core Architecture & Features
 
 * 🧠 **Autonomous Web Verification:** If a resume contains links or references to external projects, the agent automatically triggers internet searches via Tavily to validate the candidate's real-world footprint and open-source contributions.
